@@ -1,18 +1,9 @@
 ### Hi, I'm Amor 👋
 
-AI enthusiast · CS student @ TU Berlin · working at Porsche
+AI enthusiast
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tu-berlin-dark.svg">
-    <img src="assets/tu-berlin-light.svg" height="40" alt="TU Berlin">
-  </picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/porsche-dark.svg">
-    <img src="assets/porsche-light.svg" height="44" alt="Porsche">
-  </picture>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tu-berlin-dark.svg"><img src="assets/tu-berlin-light.svg" height="15" alt="TU Berlin"></picture>&nbsp;&nbsp;CS student @ TU Berlin<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/porsche-dark.svg"><img src="assets/porsche-light.svg" height="17" alt="Porsche"></picture>&nbsp;&nbsp;Working at Porsche
 
 **What I'm into**
 
