@@ -1,5 +1,13 @@
-# Hey, I'm Amor
+### Hi, I'm Amor 👋
 
-CS student at TU Berlin. I build AI agents and agentic workflows that automate real business processes — not chatbot wrappers, but end-to-end systems that replace hours of manual work. Mostly working with Python, JavaScript, and whatever LLM stack gets the job done.
+AI enthusiast · CS student @ TU Berlin · working at Porsche 🏎️
 
-Currently deep into process optimization through AI agents, open-source LLM tooling, and the intersection of machine learning with practical automation. Always down to collaborate on projects that push agents beyond demos into production.
+**What I'm into**
+
+- 🤖 AI agents that plan, use tools and get real tasks done
+- 🔌 Model Context Protocol (MCP) and connecting LLMs to real systems
+- 🧠 How LLMs work under the hood
+- 🛠️ Agentic workflows for everyday automation
+- 🚀 Trying new AI tools the week they come out
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-191919?logo=anthropic&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
