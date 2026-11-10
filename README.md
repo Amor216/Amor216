@@ -3,7 +3,7 @@
 AI enthusiast
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tu-berlin-dark.svg"><img src="assets/tu-berlin-light.svg" height="15" alt="TU Berlin"></picture>&nbsp;&nbsp;CS student @ TU Berlin<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/porsche-dark.svg"><img src="assets/porsche-light.svg" height="17" alt="Porsche"></picture>&nbsp;&nbsp;Working at Porsche
+🤍 Working at Porsche
 
 **What I'm into**
 
